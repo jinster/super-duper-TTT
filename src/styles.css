@@ -1,0 +1,15 @@
+.App {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background: #457b9d;
+  color: #f1faee;
+}
+
+.globalBoardContainer {
+  margin: 25px;
+}
