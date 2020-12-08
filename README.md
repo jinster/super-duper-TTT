@@ -1,2 +1,2 @@
 # super-duper-TTT
-Created with CodeSandbox
+Super Tic-Tac-Toe
